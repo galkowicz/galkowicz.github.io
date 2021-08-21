@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.f395a6e1.chunk.js",
-    "main.js.map": "/static/js/main.f395a6e1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9bcf2e83.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9bcf2e83.js.map",
-    "static/js/2.a236556f.chunk.js": "/static/js/2.a236556f.chunk.js",
-    "static/js/2.a236556f.chunk.js.map": "/static/js/2.a236556f.chunk.js.map",
-    "static/js/3.794aba51.chunk.js": "/static/js/3.794aba51.chunk.js",
-    "static/js/3.794aba51.chunk.js.map": "/static/js/3.794aba51.chunk.js.map",
-    "static/js/4.87f14121.chunk.js": "/static/js/4.87f14121.chunk.js",
-    "static/js/4.87f14121.chunk.js.map": "/static/js/4.87f14121.chunk.js.map",
-    "static/js/5.6bc76317.chunk.js": "/static/js/5.6bc76317.chunk.js",
-    "static/js/5.6bc76317.chunk.js.map": "/static/js/5.6bc76317.chunk.js.map",
-    "static/js/6.9051e175.chunk.js": "/static/js/6.9051e175.chunk.js",
-    "static/js/6.9051e175.chunk.js.map": "/static/js/6.9051e175.chunk.js.map",
+    "main.js": "/static/js/main.58e43800.chunk.js",
+    "main.js.map": "/static/js/main.58e43800.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0f941c4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0f941c4f.js.map",
+    "static/js/2.61746888.chunk.js": "/static/js/2.61746888.chunk.js",
+    "static/js/2.61746888.chunk.js.map": "/static/js/2.61746888.chunk.js.map",
+    "static/js/3.63a57614.chunk.js": "/static/js/3.63a57614.chunk.js",
+    "static/js/3.63a57614.chunk.js.map": "/static/js/3.63a57614.chunk.js.map",
+    "static/js/4.f232ec5e.chunk.js": "/static/js/4.f232ec5e.chunk.js",
+    "static/js/4.f232ec5e.chunk.js.map": "/static/js/4.f232ec5e.chunk.js.map",
+    "static/js/5.4a55dd41.chunk.js": "/static/js/5.4a55dd41.chunk.js",
+    "static/js/5.4a55dd41.chunk.js.map": "/static/js/5.4a55dd41.chunk.js.map",
+    "static/js/6.4135b984.chunk.js": "/static/js/6.4135b984.chunk.js",
+    "static/js/6.4135b984.chunk.js.map": "/static/js/6.4135b984.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.a236556f.chunk.js.LICENSE.txt": "/static/js/2.a236556f.chunk.js.LICENSE.txt",
-    "static/media/meat-background.36d890a7.jpeg": "/static/media/meat-background.36d890a7.jpeg"
+    "static/js/2.61746888.chunk.js.LICENSE.txt": "/static/js/2.61746888.chunk.js.LICENSE.txt",
+    "static/media/meat-background.36d890a7.jpeg": "/static/media/meat-background.36d890a7.jpeg",
+    "static/media/midesLogo.04ccc136.png": "/static/media/midesLogo.04ccc136.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bcf2e83.js",
-    "static/js/2.a236556f.chunk.js",
-    "static/js/main.f395a6e1.chunk.js"
+    "static/js/runtime-main.0f941c4f.js",
+    "static/js/2.61746888.chunk.js",
+    "static/js/main.58e43800.chunk.js"
   ]
 }
