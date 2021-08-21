@@ -2,12 +2,12 @@
   "files": {
     "main.js": "/static/js/main.58e43800.chunk.js",
     "main.js.map": "/static/js/main.58e43800.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f941c4f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f941c4f.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06b95da3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06b95da3.js.map",
     "static/js/2.61746888.chunk.js": "/static/js/2.61746888.chunk.js",
     "static/js/2.61746888.chunk.js.map": "/static/js/2.61746888.chunk.js.map",
-    "static/js/3.63a57614.chunk.js": "/static/js/3.63a57614.chunk.js",
-    "static/js/3.63a57614.chunk.js.map": "/static/js/3.63a57614.chunk.js.map",
+    "static/js/3.fe8d46ec.chunk.js": "/static/js/3.fe8d46ec.chunk.js",
+    "static/js/3.fe8d46ec.chunk.js.map": "/static/js/3.fe8d46ec.chunk.js.map",
     "static/js/4.f232ec5e.chunk.js": "/static/js/4.f232ec5e.chunk.js",
     "static/js/4.f232ec5e.chunk.js.map": "/static/js/4.f232ec5e.chunk.js.map",
     "static/js/5.4a55dd41.chunk.js": "/static/js/5.4a55dd41.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/midesLogo.04ccc136.png": "/static/media/midesLogo.04ccc136.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f941c4f.js",
+    "static/js/runtime-main.06b95da3.js",
     "static/js/2.61746888.chunk.js",
     "static/js/main.58e43800.chunk.js"
   ]
